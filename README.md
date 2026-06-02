@@ -24,7 +24,6 @@
 |---|---|---|
 | [**rusty-sched**](https://github.com/jdp5949/rusty-sched) | Autosys OSS clone — single binary, SQLite/Postgres, conditions DSL, JIL import, live logs, retries, alerts, Web UI. Zero deps. | Rust |
 | [**discord-notifier**](https://github.com/jdp5949/discord-notifier) | Portable Discord webhook transport — Python package + 10-language reference. Severity-routed alerts, 429 backoff, audit mirror. | Python |
-| [**crocdrop**](https://github.com/jdp5949/crocdrop) | Free, open-source P2P file transfer desktop app + headless daemon. E2E encrypted, sync jobs, cron scheduling. | Go |
 | [**p2p-messaging**](https://github.com/jdp5949/p2p-messaging) | Peer-to-peer encrypted messaging without central servers. | Go |
 
 ### 🛠️ Tech
