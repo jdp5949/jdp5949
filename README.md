@@ -23,7 +23,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**rusty-sched**](https://github.com/jdp5949/rusty-sched) | Autosys OSS clone — single binary, SQLite/Postgres, conditions DSL, JIL import, live logs, retries, alerts, Web UI. Zero deps. | Rust |
-| [**discord-notifier**](https://github.com/jdp5949/discord-notifier) | Portable Discord webhook transport — Python package + 10-language reference. Severity-routed alerts, 429 backoff, audit mirror. | Python |
+| [**discord-alert-transport**](https://github.com/jdp5949/discord-alert-transport) | Portable Discord webhook transport — Python package + 10-language reference. Severity-routed alerts, 429 backoff, audit mirror. | Python |
 | [**p2p-messaging**](https://github.com/jdp5949/p2p-messaging) | Peer-to-peer encrypted messaging without central servers. | Go |
 | [**tg-ringer**](https://github.com/jdp5949/tg-ringer) | Ring (call) & message any Telegram user from your own account (userbot) — urgent alerts via a real Telegram call. PyPI package + CLI. | Python |
 
