@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <em>AI-native builder — even in a stack or language I haven't used, I ramp fast and ship a working prototype, then production-ready code, quickly by pairing with AI/LLM tools (Claude Code, Gemini CLI, Codex, OpenCode).</em>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
