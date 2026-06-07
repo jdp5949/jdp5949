@@ -35,6 +35,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jdp5949-181717?style=flat&logo=github&logoColor=white)](https://github.com/jdp5949)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdp5949&show_icons=true&hide_rank=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdp5949&layout=compact" height="160" />
+  <img src="https://github-readme-stats-jdp.vercel.app/api?username=jdp5949&show_icons=true&hide_rank=true&theme=default" height="160" />
+  <img src="https://github-readme-stats-jdp.vercel.app/api/top-langs/?username=jdp5949&layout=compact" height="160" />
 </p>
